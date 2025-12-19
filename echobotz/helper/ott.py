@@ -77,7 +77,7 @@ _PROVIDER_NAMES = {
 }
 
 _WORKERS = {
-    "primevideo": "https://primevideo.the-zake.workers.dev/?url=",
+   # "primevideo": "https://primevideo.the-zake.workers.dev/?url=", Under Maintenance 
     "zee5": "https://zee5.the-zake.workers.dev/?url=",
     "appletv": "https://appletv.the-zake.workers.dev/?url=",
     "airtelxstream": "https://airtelxstream.the-zake.workers.dev/?url=",
@@ -97,6 +97,7 @@ _WORKERS = {
     "facebook": "https://facebookdl.the-zake.workers.dev/?url=",
     "tiktok": "https://tiktokdl.the-zake.workers.dev/?url=",
     "crunchyroll": "https://crunchyroll.blaze-updatez.workers.dev/?q=",
+    "primevideo": "https://primevideo.pbx1bots.workers.dev/?url=",
 }
 
 
