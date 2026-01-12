@@ -50,7 +50,7 @@ async def _poster_cmd(client, message):
             "\n".join(header)
             + "\n\n<b>⧉ Posters:</b>\n"
             + ("\n".join(poster_lines) if poster_lines else "• No posters found.")
-            + "\n\n<blockquote>Bot By ➤ @NxTalks</blockquote>"
+            + "\n\n<blockquote>Bot By ➤ @DVITTALKANNADAMOVIE 🍿</blockquote>"
         )
 
         btns = EchoButtons()
